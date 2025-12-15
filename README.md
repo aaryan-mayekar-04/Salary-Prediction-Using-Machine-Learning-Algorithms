@@ -1,0 +1,2 @@
+# Salary-Prediction-Using-Machine-Learning-Algorithms
+This project focuses on predicting salaries using several machine learning algorithms such as Linear Regression, Polynomial Regression, Logistic Regression, Decision Trees, and Random Forest. It includes data preprocessing, model training, evaluation, and performance comparison. It compares model performance to identify the most accurate prediction
