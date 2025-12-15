@@ -2,6 +2,7 @@
 This project focuses on predicting salaries using several machine learning algorithms such as Linear Regression, Polynomial Regression, Logistic Regression, Decision Trees, and Random Forest. It includes data preprocessing, model training, evaluation, and performance comparison. It compares model performance to identify the most accurate prediction.
 
 💼 ML Project for Salary Prediction
+
 📌 Project Overview
 
 This Machine Learning project focuses on predicting employee salaries based on various input features using multiple supervised learning algorithms. The goal is to analyze, compare, and evaluate different models to determine the most accurate approach for salary prediction.
