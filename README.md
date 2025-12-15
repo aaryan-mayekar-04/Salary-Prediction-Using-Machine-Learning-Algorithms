@@ -85,6 +85,10 @@ Result Interpretation
 
 Random Forest and Decision Tree models showed better performance for complex patterns.
 
+Linear and Polynomial Regression provided baseline comparisons.
+
+Logistic Regression was used for classification-based salary prediction scenarios.
+
 🏆 Key Highlights
 
 End-to-end machine learning implementation
@@ -104,7 +108,3 @@ Contributions are welcome! Feel free to fork the repository, raise issues, or su
 If you have any questions or suggestions, feel free to reach out.
 
 ⭐ If you like this project, don’t forget to star the repository!
-
-Linear and Polynomial Regression provided baseline comparisons.
-
-Logistic Regression was used for classification-based salary prediction scenarios.
